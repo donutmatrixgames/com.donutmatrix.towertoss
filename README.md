@@ -23,6 +23,7 @@ Use Steady Hands to settle a worker, Slow Charge to give yourself more time on t
 Pursue staged bronze, silver, gold and platinum trophies. Improve your scores, discover stones and complete monuments. Review saved runs in the local leaderboard and keep working towards your next milestone.
 
 ---
+<img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/8b834e2a-6bbc-4e4d-b9c6-ef5559455af0" />
 
 Web link: https://prestigeau.com/games/tower-toss
 
