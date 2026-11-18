@@ -1,7 +1,7 @@
 # Tower Toss
 ---
 [Official Website](https://prestigeau.com/games/tower-toss) | [Play Store Link (testing build)](https://play.google.com/store/apps/details?id=com.donutmatrix.towertoss)
-
+---
 
 Build a wonder, one well-timed toss at a time.
 
