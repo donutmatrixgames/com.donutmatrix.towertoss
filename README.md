@@ -1,7 +1,5 @@
 # Tower Toss
 ---
-Web link: https://prestigeau.com/games/tower-toss
-Play Store (testing build): https://play.google.com/store/apps/details?id=com.donutmatrix.towertoss
 
 Build a wonder, one well-timed toss at a time.
 
@@ -23,3 +21,10 @@ Use Steady Hands to settle a worker, Slow Charge to give yourself more time on t
 
 ## A builder's journey
 Pursue staged bronze, silver, gold and platinum trophies. Improve your scores, discover stones and complete monuments. Review saved runs in the local leaderboard and keep working towards your next milestone.
+
+---
+
+Web link: https://prestigeau.com/games/tower-toss
+
+Play Store (testing build): https://play.google.com/store/apps/details?id=com.donutmatrix.towertoss
+
