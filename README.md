@@ -1,5 +1,7 @@
 # Tower Toss
 ---
+[Official Website](https://prestigeau.com/games/tower-toss) | [Play Store Link (testing build)](https://play.google.com/store/apps/details?id=com.donutmatrix.towertoss)
+
 
 Build a wonder, one well-timed toss at a time.
 
@@ -24,8 +26,4 @@ Pursue staged bronze, silver, gold and platinum trophies. Improve your scores, d
 
 ---
 <img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/8b834e2a-6bbc-4e4d-b9c6-ef5559455af0" />
-
-[Official Website](https://prestigeau.com/games/tower-toss)
-
-[Play Store Link (testing build)](https://play.google.com/store/apps/details?id=com.donutmatrix.towertoss)
 
