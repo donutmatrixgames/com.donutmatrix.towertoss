@@ -2,6 +2,7 @@
 ---
 [Official Website](https://prestigeau.com/games/tower-toss) | [Play Store Link (testing build)](https://play.google.com/store/apps/details?id=com.donutmatrix.towertoss)
 ---
+[Expression of Interest for Testing: Please fill this Enrollment Form](https://forms.gle/cQLSHzrpbJEexTaw9)
 
 Build a wonder, one well-timed toss at a time.
 
